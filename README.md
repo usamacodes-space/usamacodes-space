@@ -8,4 +8,4 @@ Alongside improving my backend fundamentals and diving deeper into DSA and AI in
 
 🌍 Actively available for freelance or remote opportunities.
 Let’s connect — I’d love to collaborate on something ambitious.
-Contact : me@usamacodes.space
+Contact : hello@usamacodes.space
