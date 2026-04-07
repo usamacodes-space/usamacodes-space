@@ -49,8 +49,8 @@ I care about **clean, maintainable code** and **how engineering teams actually s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=usamacodes-space&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamacodes-space&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 
 <sub>Replace <code>YOUR_GITHUB_USERNAME</code> and LinkedIn URL with yours. Stats only show public activity/repos.</sub>
 
