@@ -4,7 +4,7 @@
 
 **Software Engineer @ FBM Solutions** — backend systems, data, and how AI fits into production engineering.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamacodes-space)
 [![Email](https://img.shields.io/badge/Email-hello%40usamacodes.space-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@usamacodes.space)
 [![Portfolio](https://img.shields.io/badge/Website-usamacodes.space-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://usamacodes.space)
 
